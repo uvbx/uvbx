@@ -14,6 +14,6 @@ low level development
 
 fullstack webdev
 
-automation / bots
+automation
 
-cybersecurity (offensive and defensive)
+offensive and defensive cybersecurity
